@@ -202,7 +202,7 @@ robocopy "%source%" "%dest%" /E /R:5 /W:30 /TBD
 
 ## 📺 Video Tutorial
 
-🎥 **Watch the complete setup and usage guide**: [YouTube Tutorial Link]
+🎥 **Watch the complete setup and usage guide**: [YouTube Tutorial Link](#)
 
 The video covers:
 - Step-by-step installation
